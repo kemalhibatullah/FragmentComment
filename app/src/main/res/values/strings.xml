@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FragmentComment</string>
+    <string name="komentar">KOMENTAR</string>
+    <string name="silahkan_tinggalkan_komentar">Silahkan tinggalkan komentar</string>
+    <string name="open">OPEN</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="komentar_anda">Komentar Anda</string>
+    <string name="close">CLOSE</string>
+    <string name="masukkan_komentar_di_sini">Masukkan komentar di sini ...</string>
+</resources>
